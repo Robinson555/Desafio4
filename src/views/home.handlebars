@@ -1,0 +1,12 @@
+<div class="containerproductos">
+    <h2>Listado de Productos</h2>
+    <ul>
+        {{#each productos}}
+        <li>
+            <p>Nombre: {{this.title}}</p>
+            <p>Descripción: {{this.description}}</p>
+            <p>Precio: {{this.price}}</p>
+        </li>
+        {{/each}}
+    </ul>
+</div>

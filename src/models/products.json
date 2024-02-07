@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "title": "Portátil Gaming",
+      "description": "Potente portátil diseñado para juegos de alta gama",
+      "code": "abc123",
+      "price": 1200,
+      "img": "Sin imagen",
+      "status": true,
+      "stock": 25,
+      "category": "Computación",
+      "thumbnails": []
+    },
+    {
+      "id": 3,
+      "title": "Tarjeta Gráfica Avanzada",
+      "description": "Mejora el rendimiento gráfico de tu PC con esta tarjeta de última generación",
+      "code": "abc125",
+      "price": 4500,
+      "img": "Sin imagen",
+      "status": true,
+      "stock": 25,
+      "category": "Computación",
+      "thumbnails": []
+    },
+    {
+      "id": 4,
+      "title": "Monitor Ultra HD",
+      "description": "Disfruta de imágenes nítidas con este monitor de alta resolución",
+      "code": "abc126",
+      "price": 5500,
+      "img": "Sin imagen",
+      "status": true,
+      "stock": 25,
+      "category": "Computación",
+      "thumbnails": []
+    },
+    {
+      "id": 5,
+      "title": "Teclado Mecánico RGB",
+      "description": "Experimenta la sensación de escribir con un teclado mecánico retroiluminado",
+      "code": "abc127",
+      "price": 6500,
+      "img": "Sin imagen",
+      "status": true,
+      "stock": 25,
+      "category": "Computación",
+      "thumbnails": []
+    },
+    {
+      "id": 6,
+      "title": "SSD de Alta Velocidad",
+      "description": "Acelera el rendimiento de tu sistema con este disco de estado sólido",
+      "code": "abc128",
+      "price": 7500,
+      "img": "Sin imagen",
+      "status": true,
+      "stock": 25,
+      "category": "Computación",
+      "thumbnails": []
+    },
+    {
+      "id": 7,
+      "title": "Impresora Multifunción",
+      "description": "Imprime, escanea y copia con esta versátil impresora para tu hogar u oficina",
+      "code": "abc129",
+      "price": 8500,
+      "img": "Sin imagen",
+      "status": true,
+      "stock": 25,
+      "category": "Computación",
+      "thumbnails": []
+    },
+    {
+      "id": 8,
+      "title": "Procesador de Última Generación",
+      "description": "Potencia tu PC con el rendimiento superior de este procesador avanzado",
+      "code": "abc130",
+      "price": 9500,
+      "img": "Sin imagen",
+      "status": true,
+      "stock": 25,
+      "category": "Computación",
+      "thumbnails": []
+    },
+    {
+      "id": 9,
+      "title": "Mouse Inalámbrico Ergonómico",
+      "description": "Navega con comodidad gracias a este mouse inalámbrico diseñado para largas sesiones",
+      "code": "abc131",
+      "price": 10500,
+      "img": "Sin imagen",
+      "status": true,
+      "stock": 25,
+      "category": "Computación",
+      "thumbnails": []
+    },
+    {
+      "id": 10,
+      "title": "Auriculares con Cancelación de Ruido",
+      "description": "Sumérgete en tu música o juegos con la calidad de sonido premium de estos auriculares",
+      "code": "abc132",
+      "price": 11500,
+      "img": "Sin imagen",
+      "status": true,
+      "stock": 25,
+      "category": "Computación",
+      "thumbnails": []
+    },
+    {
+      "title": "Placa Base de Alto Rendimiento",
+      "description": "Construye tu PC con esta placa base que ofrece un rendimiento excepcional",
+      "code": "abc124",
+      "price": 2500,
+      "img": "Sin imagen",
+      "status": true,
+      "stock": 25,
+      "category": "Computación",
+      "thumbnails": [],
+      "id": 11
+    }
+  ]
+  
